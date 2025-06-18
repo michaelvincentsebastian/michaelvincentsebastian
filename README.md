@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Vincent
 
 🎓 Vocational Student majoring in **Computer and Network Engineering** at [SMK Nusaputera 1](https://www.smknusaputera1.sch.id/)  
+
 📊 Aspiring **Data Analyst** with strong foundation in **SQL** and hands-on experience in real-world datasets  
+
 🛠 Currently exploring **Python for Data Analysis** (NumPy level) to enhance analytical capabilities  
+
 🤝 Head of Student Council — leading with collaboration, communication, and critical thinking [📱](https://www.instagram.com/osis.skanusa1?igsh=MW02OHJrcjRsMTM5Zg==)
+
 🔭 Long-term interest in **Artificial Intelligence** and its synergy with data-driven decision making  
 
 ---
