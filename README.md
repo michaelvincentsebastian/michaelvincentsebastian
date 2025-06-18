@@ -6,7 +6,7 @@
 
 🛠 Currently exploring **Python for Data Analysis** (NumPy level) to enhance analytical capabilities  
 
-🤝 Head of Student Council — leading with collaboration, communication, and critical thinking [📱](https://www.instagram.com/osis.skanusa1?igsh=MW02OHJrcjRsMTM5Zg==)
+🤝 [Head of Student Council](https://www.instagram.com/osis.skanusa1?igsh=MW02OHJrcjRsMTM5Zg==) — leading with collaboration, communication, and critical thinking
 
 🔭 Long-term interest in **Artificial Intelligence** and its synergy with data-driven decision making  
 
