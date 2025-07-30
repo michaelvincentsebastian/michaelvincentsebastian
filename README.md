@@ -4,7 +4,7 @@
 
 📊 Aspiring **Data Analyst** with strong foundation in **SQL** and hands-on experience in real-world datasets  
 
-🛠 Currently exploring **Python for Data Analysis** (NumPy level) to enhance analytical capabilities  
+🛠 Currently exploring **Python for Data Analysis** to enhance analytical capabilities  
 
 🤝 [Head of Student Council](https://www.instagram.com/osis.skanusa1?igsh=MW02OHJrcjRsMTM5Zg==) — leading with collaboration, communication, and critical thinking
 
