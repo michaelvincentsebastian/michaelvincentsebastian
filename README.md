@@ -13,10 +13,10 @@
 ---
 
 ## 🚀 What I'm Working On
-- 🔹 Developing SQL queries for data cleaning, transformation, and insights extraction  
-- 🔹 Creating dashboards and summaries using **Power BI** and **Excel**  
-- 🔹 Practicing basic data analysis workflow in **Python (NumPy)**  
-- 🔹 Documenting projects with clear structure and business context on GitHub  
+🔹 Developing SQL queries for data cleaning, transformation, and insights extraction  
+🔹 Creating dashboards and summaries using **Power BI** and **Excel**  
+🔹 Practicing basic data analysis workflow in **Python (NumPy)**  
+🔹 Documenting projects with clear structure and business context on GitHub  
 
 ---
 
