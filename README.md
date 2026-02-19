@@ -7,7 +7,7 @@
 ---
 <div align="center">
 
-## 🚀 What I'm Working On
+# 🚀 What I'm Working On
 
 </div>
 
@@ -20,13 +20,13 @@
 
 ---
 <div align="center">
-  <h2>🧰 Tools & Technologies</h2>
+  <h1>🧰 Tools & Technologies</h1>
 </div>
 
 <table>
   <tr>
     <td>
-      <h3>1. Languages & Library</h3>
+      <h2>1. Languages & Library</h2>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
       <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td>
-      <h3>2. Databases</h3>
+      <h2>2. Databases</h2>
       <img src="https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -56,7 +56,7 @@
 <table>
   <tr>
     <td>
-      <h3>3. Transformation Tools</h3>
+      <h2>3. Transformation Tools</h2>
       <img src="https://img.shields.io/badge/SQLMesh-0070f3?style=for-the-badge&logo=sqlmesh&logoColor=white" />
       <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
       <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white" />
@@ -67,7 +67,7 @@
 <table>
   <tr>
     <td>
-      <h3>4. Cloud Architecture</h3>
+      <h2>4. Cloud Architecture</h2>
       <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -78,7 +78,7 @@
 <table>
   <tr>
     <td>
-      <h3>5. IDE & Code Environment</h3>
+      <h2>5. IDE & Code Environment</h2>
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -91,7 +91,7 @@
 <table>
   <tr>
     <td>
-      <h3>6. Data Visualizations</h3>
+      <h2>6. Data Visualizations</h2>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
       <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
     </td>
@@ -101,7 +101,7 @@
 <table>
   <tr>
     <td>
-      <h3>7. Orchestrator</h3>
+      <h2>7. Orchestrator</h2>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto" />
       <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
     </td>
@@ -111,7 +111,7 @@
 <table>
   <tr>
     <td>
-      <h3>8. Professional Tools</h3>
+      <h2>8. Professional Tools</h2>
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -125,7 +125,7 @@
 ---
 <div align="center">
 
-## 👷 Featured Projects
+# 👷 Featured Projects
 <b>SOON!</b>
 
 </div>
@@ -140,20 +140,20 @@
 ---
 <div align="center">
 
-## 📫 Let's Connect!
+# 📫 Let's Connect!
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vincentmichael514@gmail.com) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mchlvincent_) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/michaelvincentsebastian) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/vinnokkotsu_) [![Github](https://skillicons.dev/icons?i=github)](https://discord.com/users/vinnokkotsu)
 
 </div>
 
 ---
 <div align="center">
-  <h2>🔥 GitHub Performance</h2>
+  <h1>🔥 GitHub Performance</h1>
 
-  <picture decoding="async" loading="lazy">
+  <!-- <picture decoding="async" loading="lazy">
     <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=michaelvincentsebastian&theme=crt">
     <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=michaelvincentsebastian&screen_effect=true&theme=crt">
     <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=michaelvincentsebastian&theme=crt">
-  </picture>
+  </picture> -->
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=michaelvincentsebastian&theme=dark)
 </div>
