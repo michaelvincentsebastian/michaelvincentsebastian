@@ -147,6 +147,7 @@
 
 ---
 <div align="center">
+  <h2>🔥 GitHub Performance</h2>
 
   <picture decoding="async" loading="lazy">
     <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=michaelvincentsebastian&theme=crt">
@@ -155,7 +156,18 @@
   </picture>
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=michaelvincentsebastian&theme=dark)
-
-  ![](https://github-visitor-counter-tau.vercel.app/api?username=github&displayMode=miniCounter&theme=github)
-
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelvincentsebastian/michaelvincentsebastian/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelvincentsebastian/michaelvincentsebastian/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/michaelvincentsebastian/michaelvincentsebastian/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=michaelvincentsebastian.michaelvincentsebastian&"  />
+</div>
+
+---
