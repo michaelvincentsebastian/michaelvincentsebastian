@@ -1,8 +1,9 @@
 ![Profile Banner](img/github-header-banner.png)
 
-- 🎓 Vocational Student majoring in **Computer and Network Engineering** at [SMK Nusaputera 1](https://www.smknusaputera1.sch.id/) **|** _Jul 2023 - Present_ 
+- 🏫 Vocational Student majoring in **Computer and Network Engineering** at [SMK Nusaputera 1](https://www.smknusaputera1.sch.id/) **|** _Jul 2023 - May 2026_ 
 - 🤝 [Head of Student Council](https://www.instagram.com/osis.skanusa1?igsh=MW02OHJrcjRsMTM5Zg==) — leading with collaboration, communication, and critical thinking **|** _Oct 2024 - Sept 2025_
 - 📊 **Data Engineer Intern** at [Software House Company](https://datautama.com/) **|** _Nov 2025 - Present_
+- 👨‍🎓 Undergraduate Student majoring in **Computer Science** at [Binus Online](https://online.binus.ac.id/) **|** _Aug 2026 - Present_
 
 ---
 <div align="center">
